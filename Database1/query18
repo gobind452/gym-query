@@ -1,0 +1,5 @@
+A,a;E,b
+A,b;B,a
+B,a;A,b
+B,a;E,b
+E,b;B,a
