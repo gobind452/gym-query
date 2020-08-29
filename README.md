@@ -1,7 +1,7 @@
 # Gym-Query
 ## A minimal OpenAI gym environment for query optimizers in databases
 
-This repository models a database, relations and queries to be used for reinforcement learning tasks, similar to [Learning to Optimize Join Queries With Deep
+This repository models a database, relations and queries to be used for reinforcement learning tasks, based on [Learning to Optimize Join Queries With Deep
 Reinforcement Learning](https://arxiv.org/pdf/1808.03196.pdf). This work was done as a part of the course COL868 (Machine Learning for Databases) at IIT Delhi, under Prof Maya Ramanath. The main task here, is to figure out the best join order for join query consisting of multiple tables and columns. 
 
 ### Schematics
